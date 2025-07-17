@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://www.gravatar.com/avatar/205e460b479e2e5b487201c1054c6031?s=150&d=identicon](https://gravatar.com/wisemortallyf11bb604f0)" width="150px;" alt="Divya Pratap Singh Bhadoria" style="border-radius:50%;"/>
   <h1>Hi there, I'm Divya! 👋</h1>
   <p>Data Engineering, Management & Governance Analyst at Accenture | He/Him</p>
 </div>
