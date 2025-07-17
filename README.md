@@ -38,7 +38,7 @@ Here are some of the technologies and tools I frequently work with:
 I'm always open to discussing new ideas, collaborations, or just connecting with fellow tech enthusiasts.
 
 * **LinkedIn:** [Divya Pratap Singh Bhadoria](https://www.linkedin.com/in/iamdivyapratap/)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **Email:** [thirtynimrod@outlook.com](mailto:thirtynimrod@outlook.com)
 
 ---
 
