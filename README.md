@@ -40,11 +40,15 @@ When I'm not coding, you'll find me immersed in virtual worlds or lost in melodi
 
 * **Steam Gaming Stats:**
 
-[![topson](https://steam-stat.vercel.app/api?profileName=thirtynimrod)](https://steamcommunity.com/id/thirtynimrod/) *(I've added a link to your Steam profile for convenience)*
+[![topson](https://steam-stat.vercel.app/api?profileName=thirtynimrod)](https://steamcommunity.com/id/thirtynimrod/) 
+*(I've added a link to your Steam profile for convenience)*
+
 
 * **Spotify Music Stats:**
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=iamdivyapratap&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=iamdivyapratap&redirect=true)
+
+---
 
 ### 🌐 Let's Connect!
 
@@ -61,5 +65,3 @@ I'm always open to discussing new ideas, collaborations, or just connecting with
 [![Top Langs](https://github.vercel.app/api/top-langs/?username=ThirtyNimrod&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-_Generated with ❤️ by an AI_
