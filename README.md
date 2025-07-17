@@ -41,6 +41,7 @@ When I'm not coding, you'll find me immersed in virtual worlds or lost in melodi
 * **Steam Gaming Stats:**
 
 [![topson](https://steam-stat.vercel.app/api?profileName=thirtynimrod)](https://steamcommunity.com/id/thirtynimrod/) 
+
 *(I've added a link to your Steam profile for convenience)*
 
 
